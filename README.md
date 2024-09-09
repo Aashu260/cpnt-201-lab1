@@ -11,4 +11,4 @@ _It's a fun game that you can play with your friends._
 2. Call of Duty modern warefare 3
 3. Call of Duty Black OPS 6
    [Call of duty]
-   [https://www.callofduty.com/ca/en/]
+   (https://www.callofduty.com/ca/en/)
